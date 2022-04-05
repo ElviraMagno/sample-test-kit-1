@@ -5,6 +5,8 @@ import Inputs from "../components/Inputs";
 
 export default function TabOneScreen() {
 
+  
+
   return (
     <><View
       style={style.container}
